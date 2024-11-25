@@ -11,5 +11,4 @@ Click "Show Preview"
 In the top right of the Preview click the 3 lines and click Open in Browser Now you have full access to the website in your browser.
 
 ## Link to video demonstration website right here.
-(Copy and Paste Link into browser)
 https://drive.google.com/file/d/1-5ws3ptNZjMXDF_S2qLb9LvtfabE60mt/view?usp=drive_link
