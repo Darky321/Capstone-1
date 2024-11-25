@@ -10,4 +10,4 @@ In your editor, I use VScode, go into Capstone Project 1 and right click index.h
 Click "Show Preview"
 In the top right of the Preview click the 3 lines and click Open in Browser Now you have full access to the website in your browser.
 
-##Link to video demonstration website right here.
+## Link to video demonstration website right here.
